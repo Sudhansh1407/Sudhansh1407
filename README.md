@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudhansh1407
+- 👋 Hi, I’m @Sudhansh Dua
 - 👀 I’m interested in financial engineering
 - 🌱 I’m currently learning option pricing in C++ and Python
 - 💞️ I’m looking to collaborate on algorithmic trading and derivative pricing
